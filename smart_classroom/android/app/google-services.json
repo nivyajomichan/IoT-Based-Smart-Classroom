@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "212101845287",
+    "firebase_url": "https://iot-based-smart-classroom.firebaseio.com",
+    "project_id": "iot-based-smart-classroom",
+    "storage_bucket": "iot-based-smart-classroom.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212101845287:android:c44ceabaa9f4d807",
+        "android_client_info": {
+          "package_name": "com.example.smart_classroom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212101845287-j2jchsffbkkv1gu5cqskjagmsn2kfikb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9P1vZa2baM6Ko7gBf2JUoH1E93MSZy1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "212101845287-j2jchsffbkkv1gu5cqskjagmsn2kfikb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

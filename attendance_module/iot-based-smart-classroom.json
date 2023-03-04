@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "iot-based-smart-classroom",
+  "private_key_id": "c2201544eb9564d4d7d6d21eae075bff976dab0e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDAdA4BtZYqRvKO\nFjOb82wGtp8UdtovlewEXSMHaY93hbtEAbRg1PvZW/FhHgtnBTpaGFls/ZXhWdyk\nRaHwtfYFDizF4qQORawSWh+S4ugJiL/iaE1SeJmsm8RfKGDQSNWuYW+gqfYqjuxS\n2+q+jOaeHckCaRKKJFUKCgz8ny6nVOMCjJ1r3i2DoW1DmRxZAa8gqwz1d2q4s2zX\nM/w480CXiTb+sDRPK4OfwGTwZKbSuOgpUYOP7iUKjaimQq8K4kjmX5OFk/8irrDd\nh0sFcMHkuYENSbX3Biih+zOq7KuKlJ1XP2/hebuCwU7o2I/mHFqdCC9yXpwsc2b+\nJr9FyJAjAgMBAAECgf91U4kBgcQtqbHu/wy+Kah0FwTBHM6GInYYwDNumAaYFO9B\nj0zju5NSqRML/qYhDa3DClLtBKL563Z0i/7wD/5no9KwrcGLOISCZQ31HVcardnA\nG8SMPAKOQRi0OemN5Q5OSexQ69oMk5DgU/QXzPqWT/wpsP9V1zpqr29NDrWFyEOG\n1pBjYJaGjw4+N8/godwh9X9fnvbnRpdQH0MpEl18jxGdDp8WLFfEfVp1m2o9aXBp\neYsJw02l3n9Lud2ntOu7tGjT2NShfOH4byu7BDc8N99xutVZwe1wx4+1NApoPLH0\nl0WmwBct7lhaoujiKMwxrOCcwNa6HX3GZLDm0wECgYEA/8TkKUzmJunqBKAYi7Vf\ntgsqV2xDiSfFOdJasIjRE461CScQ0q1hkd/4olPUrxZFYMQo+U/P47XiuAKSeIus\nDxAehiqX8ybo1kPq87exgKg55Xk2CFRENI22Y2j9Jh//TIqbsZcXeU7kfgVkufIz\nmS/fSiaCcXjCs9TturDbMEECgYEAwKCH84YCE4rwbnNCJKzb3vElzFnHaACkesrH\nC0C5S8shjM9iXIgp541RoURVdljKQYwLbXerU5rq9NZXUKAnQPo4OHzXKds8hvwh\nig1pXllP3Jzfo2EU0C09oIL43tuXWo03gZkU2j5ZA6qGWfboJcDjQ4JtEwGm1ty2\nufHrJ2MCgYEA/woQEXbS0N7TMcWKdFVpmRdNI1ubhHqZ2ex97iafhQb6UqQXzFyD\nPHi/bu502Bo3GCTCTshdHk1SQ/aco4NzEJocNeDnH9ket/mFoXz8jLQy9zWEwY11\nbYoZ4srgE1I4utREKDPnfllC0r8CD8EJ3qiz2TbJP+kRDU03uL998YECgYABvjIc\nuPyx0pMEXNSfYlUG+mWeKL3OKhtS5RzR9D74+ZiPHp1EOxMt/jBb5jNjw7/oweyk\ni+2n7wHrPzlBCIHya5EwqaiEv3AXxJZFGoP2j5ZSZ7T6VHmMvKwPFMBNu+ztq9Nx\nv8HZi7DggJ2AmORW2xzzUm3MOzqYPR0GJ7M6AwKBgQCgPe2Ak2AmHkWRstLogFpq\ns4upK5s1h4mRO92UAOX5qSsqJubZX24aiVVRpdNzDLNrcOVxzSHhfRueEmI1y9+Y\naeMZQtw1Eq5nRgyVD8Zy5R48GKwhlda54CFMdEY2ICfuzfs7KVKoGgXhaUgwTxjc\nXvTtbmZPgjDHsS009+P2Nw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-ujsp9@iot-based-smart-classroom.iam.gserviceaccount.com",
+  "client_id": "117338097124796847669",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-ujsp9%40iot-based-smart-classroom.iam.gserviceaccount.com"
+}
